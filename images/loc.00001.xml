@@ -64,7 +64,7 @@
             <pb facs="https://whitmanarchive.org/iiif/2/whitman-correspondence%2Floc_vm.02142_large.jpg/full/!600,600/0/default.jpg"/>
             <opener>
                 <dateline>
-                    <name type="place" rend="right"><placeName key="Camden (N.J. : Comté)" ref="http://viaf.org/viaf/2053159474207327661413/">CAMDEN</placeName>, New Jersey, U S A</name>
+                    <name type="place" rend="right"><placeName key="Camden (N.J. : Comté)" ref="http://viaf.org/viaf/2053159474207327661413/">CAMDEN</placeName>, <placeName key="New Jersey" ref="http://www.wikidata.org/entity/Q1408">New Jersey</placeName>, U S A</name>
                     <date when="1877-05-25" rend="right">May 25 187<subst><del>6</del><add>7</add></subst></date>
                 </dateline>
             </opener>
@@ -74,7 +74,7 @@
             <p>—Please notify me (by postal card will do) soon as you receive it—</p><p/><p><del>Your subscription for my Book</del></p>
             
             <closer>
-                <signed rend="right"><persName key="Whitman, Walt (1819-1892), poet" ref="http://www.wikidata.org/entity/Q103843697">W. W.</persName></signed>
+                <signed rend="right">W. W.</signed>
             </closer>
         </body>
     </text>
