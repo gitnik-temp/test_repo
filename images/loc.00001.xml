@@ -59,6 +59,7 @@
     </teiHeader>
     <text type="letter">
         <body>
+            <pb facs="loc_vm.02142_large.jpg"/>
             <opener>
                 <dateline>
                     <name type="place" rend="right">CAMDEN, New Jersey, U S A</name>
