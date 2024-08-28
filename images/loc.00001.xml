@@ -59,7 +59,7 @@
     </teiHeader>
     <text type="letter">
         <body>
-            <pb facs="loc_vm.02142_large.jpg"/>
+            <pb facs="https://whitmanarchive.org/iiif/2/whitman-correspondence%2Floc_vm.02142_large.jpg/full/!600,600/0/default.jpg"/>
             <opener>
                 <dateline>
                     <name type="place" rend="right">CAMDEN, New Jersey, U S A</name>
