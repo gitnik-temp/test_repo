@@ -115,7 +115,7 @@
                <handShift rend="printed"/>
                <choice>
                   <abbr>W. W.</abbr>
-                  <expan>Walt Whitman</expan>
+                  <expan><persName key="Walt Whitman" ref="http://www.wikidata.org/entity/Q81438">Walt Whitman</persName></expan>
                </choice>
             </signed>
             <pb xml:id="leaf001v" facs="https://whitmanarchive.org/iiif/2/whitman-correspondence%2Floc_vm.02141_large.jpg/full/!600,600/0/default.jpg" type="verso"/>
