@@ -83,9 +83,9 @@
             <dateline>
                <name type="place">
                   <handShift rend="printed"/>
-                  CAMDEN, New Jersey,
+                  <placeName key="Camden" ref="http://www.wikidata.org/entity/Q138367">CAMDEN, New Jersey,
                   <handShift rend="manuscript"/>
-                  U S A
+                  U S A</placeName>
                   <ptr target="n1040"/>
                </name>
                <date when="1877-05-25">
