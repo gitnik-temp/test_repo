@@ -1,6 +1,6 @@
-<?oxygen
-RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"
-?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
 <TEI xml:id="loc.04854" xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -85,7 +85,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/te
                   <handShift rend="printed"/>
                   CAMDEN, New Jersey,
                   <handShift rend="manuscript"/>
-                  USA
+                  U S A
                   <ptr target="n1040"/>
                </name>
                <date when="1877-05-25">
