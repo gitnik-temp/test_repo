@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="loc.00001" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Walt Whitman to unknown recipient, 25 May 1877</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright © 2012 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+                <idno>loc.00001</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Walt Whitman to unknown recipient, 25 May 1877</title>
+                    <date cert="medium" when="1877-05-25" xml:id="dat1">May 25, 1877</date>
+                    <orgName xml:id="loc">Library of Congress</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Whitman, Walt">Walt Whitman</persName>
+                </person>
+                <person role="recipient">
+                    <persName>Unknown</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-08-28" who="#nhg">encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb facs="loc_vm.02142_large.jpg"/>
+            <opener>
+                <dateline>
+                    <name type="place" rend="right">CAMDEN, New Jersey, U S A</name>
+                    <date when="1877-05-25" rend="right">May 25 187<subst><del>6</del><add>7</add></subst></date>
+                </dateline>
+            </opener>
+            
+            <p>I have sent your Vol. to-day&#8212;to same address as this card&#8212;</p>
+            
+            <p>&#8212;Please notify me (by postal card will do) soon as you receive it&#8212;</p>
+            
+            <closer>
+                <signed rend="right">W. W.</signed>
+            </closer>
+        </body>
+    </text>
+</TEI>
